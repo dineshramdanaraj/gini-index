@@ -36,3 +36,18 @@ The code is implemented in a Jupyter Notebook using Python. The notebook provide
    ```bash
    git clone https://github.com/your-username/hybrid-gini.git
    cd hybrid-gini
+
+2. Open the Jupyter Notebook:
+
+  ```bash
+
+jupyter notebook Hybrid_Gini_Index.ipynb
+  ```
+Follow the instructions and run the code cells to observe the Hybrid Gini Index in action.
+
+3. Dependencies
+The notebook requires the following dependencies, which can be installed using:
+
+  ```bash
+pip install pandas matplotlib
+  ```
